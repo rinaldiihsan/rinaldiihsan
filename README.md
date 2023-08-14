@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rinaldi Ihsan Setiawan</h1>
 <h3 align="center">Front-end bole, Back-end ayo aja gue mah</h3>
 
-<iframe src="https://giphy.com/embed/QUmpqPoJ886Iw" width="480" height="332" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/boy-kids-junk-QUmpqPoJ886Iw">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/QUmpqPoJ886Iw" width="480" height="332" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rinaldiihsan&label=Profile%20views&color=0e75b6&style=flat" alt="rinaldiihsan" /> </p>
 
 - 🔭 I’m currently working on [Moonton](https://github.com/rinaldiihsan/moonton)
