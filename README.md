@@ -1,4 +1,4 @@
-<img align="center" alt="chill" width="400" src="https://giphy.com/embed/QUmpqPoJ886Iw" />
+<img align="center" alt="chill" width="400" src="[https://giphy.com/embed/QUmpqPoJ886Iw](https://gifdb.com/images/high/chill-zen-patrick-spongebob-ta7u9ezys7t6ahgv.gif)" />
 <h1 align="center">Hi 👋, I'm Rinaldi Ihsan Setiawan</h1>
 <h3 align="center">Front-end bole, Back-end ayo aja gue mah</h3>
 
