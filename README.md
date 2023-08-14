@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rinaldi Ihsan Setiawan</h1>
-<h3 align="center">Front-end bole, Back-end ayo aja gue mah</h3>
-<img align="center" alt="chill" width="400" src="https://gifdb.com/images/high/chill-zen-patrick-spongebob-ta7u9ezys7t6ahgv.gif">
+<h3 align="center">Front-end bolee, Back-end juga bolee</h3>
+
+<div style="display: flex">
+  <img align="center" alt="chill" width="500" src="https://gifdb.com/images/high/chill-zen-patrick-spongebob-ta7u9ezys7t6ahgv.gif">
+</div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rinaldiihsan&label=Profile%20views&color=0e75b6&style=flat" alt="rinaldiihsan" /> </p>
 
