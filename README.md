@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rinaldi Ihsan Setiawan</h1>
 <h3 align="center">Front-end bolee, Back-end juga bolee</h3>
 
-<img alt="chill" width="700" height="600" src="https://i.gifer.com/origin/79/7958070f40f8380a076d8893584bd687_w200.gif">
+<img alt="chill" width="700" src="https://i.gifer.com/origin/79/7958070f40f8380a076d8893584bd687_w200.gif">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rinaldiihsan&label=Profile%20views&color=0e75b6&style=flat" alt="rinaldiihsan" /> </p>
 
