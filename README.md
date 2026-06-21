@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Next JS<br>📫 How to reach me rinaldi.210170168@mhs.unimal.ac.id
+🌱 I’m currently learning Next JS<br>📫 How to reach me rinaldiihsan0401@gmail.com
 
 
 ## 🌐 Socials:
